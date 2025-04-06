@@ -1,4 +1,4 @@
-package MultiThreading;
+//package MultiThreading;
 
 public class WorldThread extends Thread{
     @Override

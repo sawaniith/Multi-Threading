@@ -1,5 +1,3 @@
-package MultiThreading;
-
 public class MultiThreadMain {
     public static void main(String[] args) throws InterruptedException{
         //user threads
