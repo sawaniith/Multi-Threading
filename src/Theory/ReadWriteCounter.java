@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;

@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 class SharedResource {
     private int data;

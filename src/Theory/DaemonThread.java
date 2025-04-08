@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 public class DaemonThread extends Thread{
     @Override

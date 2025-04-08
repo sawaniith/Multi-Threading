@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 public class Counter {
     private int count = 0;

@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 class Pen {
     public synchronized void writeWithPenAndPaper(Paper paper) {

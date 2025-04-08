@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 class InterruptExample extends Thread {
     @Override

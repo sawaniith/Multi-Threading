@@ -1,4 +1,4 @@
-//package MultiThreading;
+package Theory;
 
 public class SyncThread extends Thread{
     private Counter counter;
